@@ -1,0 +1,23 @@
+D:\dev\ide\ewarmV9u701\arm\bin\armproc.dll
+
+ D:\dev\ide\ewarmV9u701\arm\bin\armstlink.dll
+
+ D:\dev\workspace\stm32\GreenHouseSTM32h750\EWARM\GreenHouseSTM32h750\Exe\GreenHouseSTM32h750.out
+
+ --plugin=D:\dev\ide\ewarmV9u701\arm\bin\armLibSupportUniversal.dll
+
+ --device_macro=D:\dev\ide\ewarmV9u701\arm/config/debugger/ST/STM32H7xx.dmac
+
+ --device_macro=D:\dev\ide\ewarmV9u701\arm/config/debugger/ST/STM32H7xx_M7.dmac
+
+ --device_macro=D:\dev\ide\ewarmV9u701\arm/config/debugger/ST/STM32H7xx_DBG.dmac
+
+ --device_macro=D:\dev\ide\ewarmV9u701\arm/config/debugger/ST/STM32H7xx_OB.dmac
+
+ --device_macro=D:\dev\ide\ewarmV9u701\arm/config/debugger/ST/STM32H7xx_TRACE.dmac
+
+ --flash_loader=D:\dev\ide\ewarmV9u701\arm/config/flashloader/ST/FlashSTM32H750xB.board
+
+ 
+
+
